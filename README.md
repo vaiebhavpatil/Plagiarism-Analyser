@@ -1,4 +1,4 @@
-# Text-Summarizer
+# Text Summarizer
 
 With the ever-increasing volume of textual data available on the internet, it has become
 increasingly difficult and time-consuming for people to read and comprehend all of it. Therefore,
